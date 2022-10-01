@@ -1,1 +1,1 @@
-alert('опаснл')
+console.log(1);
